@@ -40,3 +40,12 @@ body{
     opacity: 1;
     transform: translateX(0);
 }
+.text:hover{
+    color: orange;
+    transition: 500ms;
+}
+.img{
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+}
